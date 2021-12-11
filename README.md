@@ -1,6 +1,6 @@
 # getx
 
-A new Flutter project.
+A new Flutter project to detail the usage of getx library for widget state management.
 
 ## Getting Started
 
